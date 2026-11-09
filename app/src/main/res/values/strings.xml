@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CraftHub</string>
+    <string name="nav_servers">Serwery</string>
+    <string name="nav_engines">Silniki</string>
+    <string name="nav_profiles">Profile</string>
+    <string name="nav_mods">Mody</string>
+    <string name="server_status_online">Online</string>
+    <string name="server_status_offline">Offline</string>
+    <string name="server_type_java">Java Edition</string>
+    <string name="server_type_bedrock">Bedrock Edition</string>
+    <string name="action_quick_join">Uruchom w Minecraft Bedrock</string>
+    <string name="action_copy_ip">Kopiuj IP serwera</string>
+    <string name="action_add_server">Dodaj serwer</string>
+    <string name="action_refresh">Odśwież status</string>
+    <string name="non_premium_badge">Non-Premium / Offline</string>
+</resources>

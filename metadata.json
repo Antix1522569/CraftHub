@@ -1,0 +1,6 @@
+{
+  "name": "CraftHub",
+  "description": "Mobilny hub serwerów Minecraft Java i Bedrock: monitor serwerów non-premium, bezpośrednie uruchamianie, silniki w czasie rzeczywistym i profile graczy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
